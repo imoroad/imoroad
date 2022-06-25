@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://imoroad.github.io/imoroad/sitemap.xml
